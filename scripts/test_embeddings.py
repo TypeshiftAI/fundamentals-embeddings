@@ -6,7 +6,7 @@ This script provides basic tests to ensure embedding operations work correctly.
 """
 
 import sys
-from typing import List, Tuple
+from typing import List
 
 
 def cosine_similarity(vec1: List[float], vec2: List[float]) -> float:
