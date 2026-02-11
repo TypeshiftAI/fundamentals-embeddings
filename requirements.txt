@@ -1,0 +1,9 @@
+# Core dependencies for fundamentals-embeddings project
+# Add your project dependencies here
+
+# Example dependencies (uncomment as needed):
+# numpy>=1.24.0
+# pandas>=2.0.0
+# scikit-learn>=1.3.0
+# sentence-transformers>=2.2.0
+# openai>=1.0.0
