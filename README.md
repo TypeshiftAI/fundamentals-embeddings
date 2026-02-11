@@ -108,6 +108,16 @@ Click Run and wait for the "stars" to cluster into their respective nebulas.
 └── data/                     # Generated outputs (created by the script)
 ```
 
+🧭 Context Switching Examples
+
+- Fruit context: Search for "apple" — pause to show nearby labels (pear, banana, mango). Use slow rotation to reveal the Fruit nebula and note how cluster coloring groups similar words.
+
+- Space context: Search for "mars" or "astronaut" — highlight the Space cluster and trace neighbor lines to orbit/satellite words to demonstrate spatial coherence.
+
+- Technology context: Search for "computer" or "google" — observe the Technology cloud and how words like `software`, `server`, and `linux` form a tech neighborhood.
+
+- Switching to Justice: Search for "justice" (an `Other` word). Notice how it sits outside the scripted clusters; then switch `Color by` to Category to compare distance from `justice` to `law`, `court`, or `government`. This shows how an outlier concept relates to nearby topical clusters and can help illustrate semantic drift or policy-related contexts.
+
 📝 Scripted Interaction Tips
 
 - Rotation: Use a slow drag to show the "Galaxy" before searching.
