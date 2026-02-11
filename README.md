@@ -39,6 +39,12 @@ python -m pip install --upgrade pip
 Clone this repository and set up your local environment:
 
 ```bash
+# Clone the repository (HTTPS)
+git clone https://github.com/TypeshiftAI/fundamentals-embeddings.git
+# Or via SSH:
+# git clone git@github.com:TypeshiftAI/fundamentals-embeddings.git
+cd fundamentals-embeddings
+
 # Create a virtual environment
 python3 -m venv venv
 
